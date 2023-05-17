@@ -1,4 +1,6 @@
-# Hi there,I'm Huru! 👋
+<h1 align="center"> Hi there,I'm Huru! 👋 </h1>
+
+<img align="center" width="96%" height="90%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hurualqayeva&show_icons=true&theme=radical" />
 
