@@ -2,9 +2,13 @@
 
 <img align="center" width="96%" height="90%" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hurualqayeva&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hurualqayeva&show_icons=true&&theme=gotham" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurualqayeva&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurualqayeva&layout=compact&color=1A4730&theme=gotham" />
+
+
+[![Linkedin: amurad77](https://img.shields.io/badge/-hurualqayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hurualqayeva)](https://www.linkedin.com/in/hurualqayeva/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/hurualqayeva?label=follow&style=social)](https://github.com/hurualqayeva)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
