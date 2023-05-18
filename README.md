@@ -7,7 +7,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurualqayeva&layout=compact&color=1A4730&theme=gotham" />
 
 
-[![Linkedin: amurad77](https://img.shields.io/badge/-hurualqayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hurualqayeva)](https://www.linkedin.com/in/hurualqayeva/)
+[![Linkedin: hurualqayeva](https://img.shields.io/badge/-hurualqayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hurualqayeva)](https://www.linkedin.com/in/hurualqayeva/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/hurualqayeva?label=follow&style=social)](https://github.com/hurualqayeva)
 
 
